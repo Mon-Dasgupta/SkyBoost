@@ -2,7 +2,7 @@
 
 **Data Analysis Project: Airlines Data Analysis using SQL & Python:-**
 
-This project demonstrates an end-to-end data analysis process using SQL and Python, including code and a report to present findings and results. It's suitable for inclusion in your portfolio or resume.
+This project demonstrates an end-to-end data analysis process using SQL and Python, including code and a report to present findings and results.
 
 **Table of Contents:-**
 
@@ -24,6 +24,7 @@ The airline industry is facing challenges, including stricter environmental regu
 
 **Getting Started**
 Prerequisites
+SQL knowledge
 Python (3.x recommended)
 Jupyter Notebook
 SQLite
